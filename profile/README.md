@@ -19,6 +19,7 @@ our [Code of Conduct](https://github.com/HERMES-SOC/code-of-conduct/blob/main/CO
 * [hermes_eea](https://github.com/HERMES-SOC/hermes_eea)
 * [hermes_merit](https://github.com/HERMES-SOC/hermes_merit)
 * [hermes_nemisis](https://github.com/HERMES-SOC/hermes_nemisis)
+* [hermes_spani](https://github.com/HERMES-SOC/hermes_spani)
 
 ### AWS Pipeline Architecture, Code, and Support
 * [sdc_aws_pipeline_architecture](https://github.com/HERMES-SOC/sdc_aws_pipeline_architecture)
