@@ -1,3 +1,5 @@
+<img src="../hermes_logo_small.png" alt="HERMES Logo" width="150"/>
+
 Welcome to the Heliophysics Environmental and Radiation Measurement Experiment Suite (HERMES) Science Operations Center (SOC) codebase.
 This project is part of the Space Weather Science Operations Center (SWSOC).
 This set of repositories is responsive to the new [NASA SMD Heliophysics (HPD) Data Policy](https://science.nasa.gov/science-red/s3fs-public/atoms/files/HPD_Data_Policy_Final_20220209_TAGGED.pdf) requirement that 
