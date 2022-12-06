@@ -1,4 +1,4 @@
-<img src="../hermes_logo_small.png" alt="HERMES Logo" width="150"/>
+<img src="hermes_logo_small.png" alt="HERMES Logo" width="150"/>
 
 Welcome to the Heliophysics Environmental and Radiation Measurement Experiment Suite (HERMES) Science Operations Center (SOC) codebase.
 This project is part of the Space Weather Science Operations Center (SWSOC).
