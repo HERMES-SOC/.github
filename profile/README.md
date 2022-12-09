@@ -15,14 +15,19 @@ our [Code of Conduct](https://github.com/HERMES-SOC/code-of-conduct/blob/main/CO
 ## Repository Index
 
 ### Science Processing and Data Analysis
-* [hermes_core](https://github.com/HERMES-SOC/hermes_core)
-* [hermes_eea](https://github.com/HERMES-SOC/hermes_eea)
-* [hermes_merit](https://github.com/HERMES-SOC/hermes_merit)
-* [hermes_nemisis](https://github.com/HERMES-SOC/hermes_nemisis)
-* [hermes_spani](https://github.com/HERMES-SOC/hermes_spani)
+* **[hermes_core](https://github.com/HERMES-SOC/hermes_core)** : A central Python Package for common functionality across all hermes instruments
+* **[hermes_eea](https://github.com/HERMES-SOC/hermes_eea)**: A Python package to process and analyze data from the HERMES EEA instrument.
+* **[hermes_merit](https://github.com/HERMES-SOC/hermes_merit)**: A Python package to process and analyze data from the HERMES MERIT instrument.
+* **[hermes_nemisis](https://github.com/HERMES-SOC/hermes_nemisis)**:A Python package to process and analyze data from the HERMES NEMISIS instrument.
+* **[hermes_spani](https://github.com/HERMES-SOC/hermes_spani)**:A Python package to process and analyze data from the HERMES SPAN-I instrument.
 
 ### AWS Pipeline Architecture, Code, and Support
-* [sdc_aws_pipeline_architecture](https://github.com/HERMES-SOC/sdc_aws_pipeline_architecture)
-* [sdc_aws_sorting_lambda](https://github.com/HERMES-SOC/sdc_aws_sorting_lambda)
-* [sdc_aws_processing_lambda](https://github.com/HERMES-SOC/sdc_aws_processing_lambda)
-* [sdc_aws_base_docker_image](https://github.com/HERMES-SOC/sdc_aws_base_docker_image)
+* **[sdc_aws_pipeline_architecture](https://github.com/HERMES-SOC/sdc_aws_pipeline_architecture)** : AWS CDK code for the file processing pipeline architecture
+* **[sdc_aws_sorting_lambda](https://github.com/HERMES-SOC/sdc_aws_sorting_lambda)** : AWS Lambda code for sorting files into the instrument buckets
+* **[sdc_aws_processing_lambda](https://github.com/HERMES-SOC/sdc_aws_processing_lambda)** : AWS Lambda code for processing files in the instrument buckets
+* **[sdc_aws_base_docker_image](https://github.com/HERMES-SOC/sdc_aws_base_docker_image)** : Docker image for the base image for the processing Lambda/Development containers
+* **[sdc_aws_fswatcher](https://github.com/HERMES-SOC/sdc_aws_fswatcher)** : A filewatcher system that can be configured to watch a directory for new files and then upload them to an S3 bucket.
+* **[sdc_aws_grafana_dashboard_backups](https://github.com/HERMES-SOC/sdc_aws_grafana_dashboard_backups)** : Backs up deployed dashboards as JSON models on https://grafana.hermes.swsoc.smce.nasa.gov/ daily
+
+
+
