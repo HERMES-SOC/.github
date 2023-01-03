@@ -16,6 +16,7 @@ our [Code of Conduct](https://github.com/HERMES-SOC/code-of-conduct/blob/main/CO
 
 ### Science Processing and Data Analysis
 * **[hermes_core](https://github.com/HERMES-SOC/hermes_core)** : A central Python Package for common functionality across all hermes instruments
+* **[hermes_instrument](https://github.com/HERMES-SOC/hermes_instrument)** : A Python package template for the instrument packages.
 * **[hermes_eea](https://github.com/HERMES-SOC/hermes_eea)**: A Python package to process and analyze data from the HERMES EEA instrument.
 * **[hermes_merit](https://github.com/HERMES-SOC/hermes_merit)**: A Python package to process and analyze data from the HERMES MERIT instrument.
 * **[hermes_nemisis](https://github.com/HERMES-SOC/hermes_nemisis)**:A Python package to process and analyze data from the HERMES NEMISIS instrument.
