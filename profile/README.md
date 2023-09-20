@@ -13,6 +13,9 @@ our [Code of Conduct](https://github.com/HERMES-SOC/code-of-conduct/blob/main/CO
 
 ## Repository Index
 
+### Project Documentation
+* **[hermes-pdmp](https://github.com/HERMES-SOC/hermes-pdmp)**: The project data management plan.
+
 ### Science Processing and Data Analysis
 * **[hermes_core](https://github.com/HERMES-SOC/hermes_core)**: A central Python Package for common functionality across all hermes instruments
 * **[hermes_instrument](https://github.com/HERMES-SOC/hermes_instrument)**: A Python package template for the instrument packages.
