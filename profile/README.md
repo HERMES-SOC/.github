@@ -34,5 +34,7 @@ our [Code of Conduct](https://github.com/HERMES-SOC/code-of-conduct/blob/main/CO
 * **[S3Watcher](https://github.com/HERMES-SOC/sdc_aws_s3watcher)**: A filewatcher system that can be configured to watch an AWS S3 bucket new files and then download them onto a local machine.
 * **[sdc_aws_grafana_dashboard_backups](https://github.com/HERMES-SOC/sdc_aws_grafana_dashboard_backups)** : Backs up deployed dashboards as JSON models on https://grafana.hermes.swsoc.smce.nasa.gov/ daily
 
-
+## Presentations and Publications
+* [DASH 2023](https://dash.heliophysics.net), Robbertz, Andrew, Rager, Amy C., Barrous-Dume, Damian, Skeberdis, Daniel, Christe, Steven, Kreisler, Steve, Mercer, Tony, & Paterson, William R. (2023). The Architecture and Functionality of HERMES Core and Instrument Python Packages. Zenodo. [https://doi.org/10.5281/zenodo.8400671](https://doi.org/10.5281/zenodo.8400671)
+* [DASH 2023](https://dash.heliophysics.net), Damian Barrous-Dume, Amy Catherine Rager, Andrew Robbertz, Daniel Skeberdis, Steven Christe, Steve Kreisler, Tony Mercer, & William R Paterson. (2023, October 9). Open Science in Action: SWxSOC's Role in Accelerating Data Release and Cloud Processing for Heliophysics Missions. Zenodo. [https://doi.org/10.5281/zenodo.8408028](https://doi.org/10.5281/zenodo.8408028)
 
